@@ -155,6 +155,27 @@ li{
     transition: 450ms;
 }
 
+.footer{
+    padding: 20px 0;
+    background-color: #8d0404;
+    color: white;
+    text-align: center;
+}
+
+@media screen and (max-width:900px){
+    .header_title{
+        font-size: 30px;
+    }
+
+    .header_frase{
+        font-size: 18px;
+    }
+
+    .header_link{
+        padding: 5px 10px;
+    }
+}
+
 
 @media screen and (max-width:670px) {
     .header_main{
@@ -170,11 +191,9 @@ li{
     .header_link{
         margin: 15px auto;
     }
-    
+
     .header_figure{
         width: 80%;
-        padding: 30px 0;
-        transition: 600ms;
     }
 
     .nav_links{
@@ -183,11 +202,8 @@ li{
 
     .logo_menu{
         display: block;
-        cursor: pointer;
-        transition: 600ms;
     }
 
     .image_container{
         width: 90%;
     }
-}

@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    /* flex-direction se usa para cambiar sentido de elementos, por defecto es row*/
+    flex-direction: column;
+}
+
+div{
+    margin: 60px;
+
+}

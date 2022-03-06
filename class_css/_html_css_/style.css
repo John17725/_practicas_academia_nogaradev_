@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1::first-letter{
+    color: blue;
+}
+
+a::before{
+    content: "🙋";
+}
+
+a::after{
+    content: '🏒';
+}

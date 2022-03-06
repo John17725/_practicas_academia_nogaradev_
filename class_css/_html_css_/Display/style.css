@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+
+div{
+    background: salmon;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+
+a{
+    background: skyblue;
+    /* Las etiquetas de tipo inline no tienen width y height */
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+/* Button posee atributos como los div */
+button{
+    background: slateblue;
+    width: 200px;
+    height: 200px;
+}

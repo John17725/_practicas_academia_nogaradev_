@@ -7,5 +7,5 @@ Para poder darle trazabilidad a mis resultados, he elaborado el siguiente indice
 **Indice**
 <ol>
     <li><a href="/class_css/_html_css_/README.md" target="_blank">Introduccion a HTML</a></li>
-    <li><a href="/class_css/_html_css_/README.md" target="_blank">Introduccion a CSS</a></li>
+    <li><a href="/class_css/_html_css_/units_measure/README.md" target="_blank">Introduccion a CSS</a></li>
 </ol>

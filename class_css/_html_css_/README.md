@@ -25,12 +25,12 @@ Los motores de renderizado son `Pasar de archivos a pixeles en pantalla`
 
 ### Elemento  
 
-
-    <h1>Hola mundo<h1/>
-
+```html
+<h1>Hola mundo<h1/>
+```
 Descripcion del elemento
 
-```
+```html
 <h1> -> (Etiqueta de apertura)
 Hola mundo -> (Contenido)
 <h1/> -> (Cierre de etiqueta)
@@ -40,7 +40,7 @@ Hola mundo -> (Contenido)
 ### Atributos
 
 Etiqueta de apertura
-```
+```html
 <h1 class="title">
 
 class -> Atributo
@@ -50,7 +50,7 @@ class -> Atributo
 ### Anidamiento
 Dentro del section tendremos un titulo con un `h1`, posteriormente un texto dentro de la etiqueta `p` y el anidamiento esta dentro del `ul` _Unorder list_ esta etiqueta contiene los `li` _List item_ en cada item habra un texto o elemento
 
-```
+```html
 <section>
     <h1>Hola</h1>
     <p>Mundo</p>
@@ -64,12 +64,12 @@ Dentro del section tendremos un titulo con un `h1`, posteriormente un texto dent
 ---
 ### Elementos vacios
 Son etiquetas que tienen etiqueta de apertura pero sobre la misma es el cierre como en el ejemplo del img
-```
+```html
 <img src="cat.jpg" alt="Gato"/>
 ```
 ---
 ### Anatomia basica de un HTML
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

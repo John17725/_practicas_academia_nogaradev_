@@ -6,6 +6,6 @@ Para poder darle trazabilidad a mis resultados, he elaborado el siguiente indice
 
 **Indice**
 <ol>
-    <li><a href="https://github.com/John17725/_practicas_academia_nogaradev_/blob/main/class_css/_html_css_/README.md" target="_blank">Introduccion a HTML</a></li>
+    <li><a href="/class_css/_html_css_/README.md" target="_blank">Introduccion a HTML</a></li>
     <li><a href="/class_css/_html_css_/README.md" target="_blank">Introduccion a CSS</a></li>
 </ol>

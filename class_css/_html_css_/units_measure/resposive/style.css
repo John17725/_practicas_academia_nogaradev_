@@ -1,0 +1,11 @@
+div{
+    background: purple;
+}
+
+/* min-width va a hacer que desde 300px presente dichos estilos */
+/* max-width hara que hasta se tengan 600px aplicara dichos estilos*/
+@media (min-width: 600px) {
+    div{
+        background: red;
+    }
+}

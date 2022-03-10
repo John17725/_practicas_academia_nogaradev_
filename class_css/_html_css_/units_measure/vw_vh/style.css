@@ -1,0 +1,36 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+html{
+    /*
+    MEDIDAS RELATIVAS 
+    1 rem por default es equivalente a 16px
+    al asignar 62.5 es igualar 1 rem a 10px
+
+    */
+    font-size: 62.5%;
+}
+
+body{
+    margin: 0;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background: pink;
+}
+
+p{
+    font-size: 3rem;
+}
+
+.container{
+    /* vw viewport width */
+    width: 100vw;
+    /* vh viewport height */
+    height: 100vh;
+    background: plum;
+}

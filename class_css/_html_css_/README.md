@@ -86,4 +86,4 @@ Son etiquetas que tienen etiqueta de apertura pero sobre la misma es el cierre c
 ---
 ### HTML Semantico
 
-![Diferencia de HTML Semantico][assets/HTML_SEMANTICO.png]
+![Diferencia de HTML Semantico](assets/HTML_SEMANTICO.png)

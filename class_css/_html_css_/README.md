@@ -85,5 +85,10 @@ Son etiquetas que tienen etiqueta de apertura pero sobre la misma es el cierre c
 ```
 ---
 ### HTML Semantico
+El HTML Semantico sugiere el uso de las etiquetas `main` para el contenido principal, `section` para secciones en particular, `article` para articulos, `footer` para la descripcion o pie de pagina, con el fin de mejorar el posicionamiento web **SEO**.
+
+Mientras que el HTML no semantico, solo hace uso de los `div` agregando **atributos** como el `class` para poder identificarlos con **valores** como los descritos anteriormente `article`, `main`, `section`.. etc.
 
 ![Diferencia de HTML Semantico](assets/HTML_SEMANTICO.png)
+
+---

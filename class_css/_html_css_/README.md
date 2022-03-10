@@ -1,4 +1,4 @@
-# Notas
+# Notas HTML
 
 ## Motores de renderizado
 Los motores de renderizado son `Pasar de archivos a pixeles en pantalla`

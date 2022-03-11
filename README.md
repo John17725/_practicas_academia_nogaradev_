@@ -9,3 +9,12 @@ Para poder darle trazabilidad a mis resultados, he elaborado el siguiente indice
     <li><a href="/class_css/_html_css_/README.md" target="_blank">Introduccion a HTML</a></li>
     <li><a href="/class_css/_html_css_/units_measure/README.md" target="_blank">Introduccion a CSS</a></li>
 </ol>
+
+
+## Ejemplos realizados con HTML y CSS
+
+### Ejemplo de pagina de introduccion y galeria con flexbox
+
+![Ejemplo de pagina con flexbox](class_css/_html_css_/assets/APRENDIENDO%20FLEX.png)
+
+El codigo de la imagen anterior la encuentras <a href="class_css/_clase_5_" target="_blank">Aqui!</a>

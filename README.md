@@ -28,6 +28,15 @@ Es una replica de la interfaz `UI` de un terminal
 El codigo de la imagen anterior la encuentras <a href="class_css/_html_css_/shell" target="_blank">Aqui!</a>
 
 ---
+
+### Hackstagram
+Realice una copia de instagram agregando la shell que realice anteriormente dentro de la presentacion de la biografia, flexbox es muy util para re-escalar el contenido, aunque me gustaria empezar a averiguar como reordenar elementos con `responsive design`
+
+![CrickoShell](class_css/_html_css_/assets/Hackstagram.png)
+
+De igual forma el codigo `HTML` y `CSS` lo encuentran <a href="class_css/Instagram" target="_blank">Aqui!</a>
+
+---
 ### Ejemplo de pagina de introduccion y galeria con flexbox
 
 ![Ejemplo de pagina con flexbox](class_css/_html_css_/assets/APRENDIENDO%20FLEX.png)

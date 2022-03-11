@@ -34,7 +34,7 @@ Realice una copia de instagram agregando la shell que realice anteriormente dent
 
 ![CrickoShell](class_css/_html_css_/assets/Hackstagram.png)
 
-De igual forma el codigo `HTML` y `CSS` lo encuentran <a href="class_css/Instagram" target="_blank">Aqui!</a>
+De igual forma el codigo `HTML` y `CSS` lo encuentran <a href="class_css/_html_css_/Instagram" target="_blank">Aqui!</a>
 
 ---
 ### Ejemplo de pagina de introduccion y galeria con flexbox

@@ -1,0 +1,281 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;300;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding:  0;
+    font-family: 'League Spartan', sans-serif;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'League Spartan', sans-serif;
+    color: #008060;
+}
+
+header{
+    width: 100%;
+    height: 100%;
+    background: #008060;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.Header-logo{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.Header-logo img{
+    height: 100%;
+    object-fit: cover;
+}
+
+.Header-body{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #ffffff;
+    text-align: center;
+}
+
+.Header-body-title{
+    margin: 20px 0;
+    font-weight: 700;
+    font-size: 3.2rem;
+}
+
+.Header-body-text{
+    margin: 20px 0;
+    font-size: 4.3rem;
+    font-weight: 300;
+}
+
+.Header-form-content{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Header-from-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.Header-form-content input{
+    font-size: 2rem;
+    width: 300px;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 15px;
+}
+
+.Header-form-content input:focus{
+    outline: none;
+}
+
+input::placeholder{
+    color: #adaeae;
+    font-weight: 400;
+}
+
+.Header-from-head button{
+    background: #1f1f1f;
+    color: #d8d8d8;
+    padding: 15px 20px;
+    border: none;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 500;
+    border-radius: 5px;
+    transition: 250ms;
+}
+
+.Header-from-head button:hover{
+    background: #000000;
+    color: #ffffff;
+    box-shadow:2px 2px 5px black;
+}
+
+.Header-from-text{
+    width: 30%;
+    height: 100%;
+    margin: 20px 0;
+    font-size: 1.4rem;
+    font-weight: 100;
+    line-height : 20px
+}
+
+
+
+
+
+.Header-wave{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 0;
+    width: 100%;
+    position: relative;
+    
+}
+
+.Header-wave-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+.Header-wave-img img{
+    width: 500px;
+    overflow: hidden;
+    object-fit: cover;
+    
+}
+
+main{
+    width: 1000px;
+    margin: 0 auto;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Cards-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.Card{
+    width: 300px;
+    height: 350px;
+}
+
+.fa-solid{
+    margin: 20px 0;
+    font-size: 5.5rem;
+    color: #008060;
+}
+
+.Card-title{
+    font-size: 2rem;
+    font-weight: 500;
+    margin: 20px 0;
+    color: #000000;
+}
+
+.Card-text{
+    margin: 20px 0;
+    font-size: 2rem;
+    font-weight: 300;
+    color: #525252;
+}
+
+.Body-main-container{
+    width: 100%;
+    height: 100%;
+    padding: 25px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 1px solid #b5b5b5;
+    border-bottom: 1px solid #b5b5b5;
+}
+
+.Body-afiliados{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 25%;
+}
+
+.Body-main-container .Body-afiliados i{
+    color: #000000;
+}
+
+Footer{
+    width: 1000px;
+    height: 100%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.Footer-container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Footer-text{
+    width: 80%;
+    font-size: 3rem;
+    text-align: center;
+    font-weight: 300;
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+
+.Footer-by{
+    font-weight: 500;
+    text-transform: uppercase;
+    word-spacing: 2px;
+    font-size: 1.6rem;
+    color: #525252;
+    margin: 10px 0;
+}
+
+.Footer-button{
+    margin: 30px 0;
+}
+
+.Footer-button button{
+    background: #008060;
+    color: #e6e6e6;
+    padding: 15px 20px;
+    border: none;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 500;
+    border-radius: 5px;
+    transition: 250ms;
+}
+
+.Footer-button button:hover{
+    background: #00644b;
+}
+
+.Footer-links{
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 10px;
+    font-weight: 300;
+    font-size: 1.7rem;
+    margin: 10px 0;
+}

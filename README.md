@@ -25,8 +25,9 @@ Es una replica de la interfaz `UI` de un terminal
 
 ![CrickoShell](class_css/_html_css_/assets/SHELL.png)
 
+El codigo de la imagen anterior la encuentras <a href="class_css/_html_css_/shell" target="_blank">Aqui!</a>
 
-
+---
 ### Ejemplo de pagina de introduccion y galeria con flexbox
 
 ![Ejemplo de pagina con flexbox](class_css/_html_css_/assets/APRENDIENDO%20FLEX.png)
@@ -44,4 +45,4 @@ El codigo de la imagen anterior la encuentras <a href="class_css/_clase_5_" targ
 
 ![Ejemplo de pagina con flexbox](class_css/_html_css_/assets/APRENDIENDO%20FLEX23.png)
 
-El codigo de la imagen anterior la encuentras <a href="class_css/_clase_6_" target="_blank">Aqui!</a>
+El codigo de la imagen anterior la encuentras <a href="class_css/_class_6_" target="_blank">Aqui!</a>
